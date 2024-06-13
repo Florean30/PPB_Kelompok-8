@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "706275359955",
+    "firebase_url": "https://lunmobile-479d5-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "lunmobile-479d5",
+    "storage_bucket": "lunmobile-479d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706275359955:android:13497f4d13c5dda286e826",
+        "android_client_info": {
+          "package_name": "com.example.lun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706275359955-n0ah5c0tmgv1jg4gfcq8lj4l3vqqlqon.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lun",
+            "certificate_hash": "bef9cdf45dee441892bca1265455beaa7b41b3f5"
+          }
+        },
+        {
+          "client_id": "706275359955-19lsvbmjb1sit2r2f6hnc9v33vfcscpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCP-uiL1HEvXY4EOucOVi1vBqbAL9rPWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706275359955-19lsvbmjb1sit2r2f6hnc9v33vfcscpr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
